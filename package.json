@@ -23,7 +23,7 @@
     "node"
   ],
   "dependencies": {
-    "ftp": "0.3.10"
+    "ftp": "github:mscdex/node-ftp#7dff82fc049a52f51803bdffb95ec1de383f9fac"
   },
   "devDependencies": {
     "coffee-script": "1.x"
